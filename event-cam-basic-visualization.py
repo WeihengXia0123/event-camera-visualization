@@ -1,8 +1,5 @@
 ### 
-  # Exercise 01
-  # This file is Weiheng Xia's homework
-  # for Event Robot Vision course
-  
+  # Event-camera basic visualizations
 ###
 
 # %% Import lib
